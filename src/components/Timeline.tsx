@@ -10,21 +10,12 @@ const Timeline = () => {
       location: "Freelance, Dakar",
       type: "experience",
       description: "Lead developer sur des projets e-commerce complexes. Encadrement d'une équipe de 5 développeurs juniors.",
-      achievements: ["Migration vers microservices", "Amélioration des performances de 40%", "Mise en place CI/CD"]
+      achievements: ["Migration vers microservices", "Amélioration des performances de 40%","APIs Rest", "Mise en place CI/CD"]
     },
-   
-    {
-      year: "2025",
-      title: "Full Stack Developer",
-      company: "StartupTech",
-      location: "Dakar, Sénégal",
-      type: "experience",
-      description: "Développement d'applications web et mobile pour des startups en forte croissance.",
-      achievements: ["Stack MERN", "Applications mobiles", "APIs REST"]
-    },
+  
     {
       year: "2024",
-      title: "MAster en réseaux et systéme",
+      title: "Master en réseaux et systéme",
       company: "institut supérieur d'informatique",
       location: "Dakar, Sénégal",
       type: "formation",
